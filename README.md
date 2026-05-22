@@ -15,11 +15,43 @@ The Google Play Store contains thousands of apps across many categories. The goa
 
 The analysis in `Main.ipynb` follows five phases:
 
-1. Setup and loading
-2. Data cleaning and transformation
-3. Exploratory data analysis
-4. Visualization
-5. Insights and conclusion
+```
+# 📂 Google Play Store App Success Analysis
+│
+├── 📝 1. Project Identity & Setup
+│   ├── ## Project Name
+│   ├── ## Project Summary
+│   └── ## GitHub Link
+│
+├── 🎯 2. Definition
+│   ├── ## Problem Statement
+│   └── ## General Guidelines
+│
+├── ⚙️ 3. Let's Begin ! 
+│    │
+│    ├── 📌 **Phase 1 :** Setup & Loading
+│    │   └── (Import libraries & read dataset)
+│    │
+│    ├── 🔍 **Phase 2:** Data Exploration
+│    │   └── (Know you data)
+│    │   
+│    │
+│    ├── 🧼 **Phase 3 :** Data Cleaning & Transformation
+│    │   └── (Handle missing values & duplicates)
+│    │
+│    ├── 📊 **Phase 4:** Deep-Dive Exploratory Data Analysis (EDA)
+│    │   └── (Getting relation about the data)
+│    │
+│    ├── 📊 **Phase 5:** Visualization
+│    │   ├── 📈 5.1  Why did you pick the specific chart?
+│    │   ├── 🔀 5.2  What is/are the insight(s) found from the chart?
+│    │   └── 🗺️ 5.3  Will the gained insights help creating a positive business impact?
+│    └── 🧼 **Phase 6:** Insights
+│        └── (Based on Visualization & Conclusion)
+│
+└── 💡 4. Final Summary 
+    └── ## Key Insights & Actionable Recommendations
+```
 
 ## Key Findings
 
